@@ -18,6 +18,7 @@ td, th { /* CSS for table data and table header */
     font-size: 3em;
     letter-spacing: 1.9em;
     padding-left: 80px;
+    font-weight: 100;
 }
 
 .table { /*Table overall CSS */
@@ -36,6 +37,7 @@ td, th { /* CSS for table data and table header */
     text-align: center;
     padding-bottom: 15px;
     letter-spacing: 0.59em;
+    font-weight: 100;
 }
 
 #paragraph { /* CSS for paragraph ID */
@@ -98,6 +100,6 @@ a:active {
     font-size: 35px;
     font-family: Roboto;
     padding-left: 10px;
-    letter-spacing: 5px;
+    letter-spacing: 5.9px;
     font-weight: 100;
 }
